@@ -1,6 +1,6 @@
 # Filipe Tielson C. M. Ramos
 
-# <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/filipe-tielson-developer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
+# <a href="https://www.linkedin.com/in/filipe-tielson-developer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
 
 
 
