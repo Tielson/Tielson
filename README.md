@@ -10,7 +10,6 @@ Graduated in Technician in Industrial Mechanics at Senai - Fieb and I am studyin
 I work at Embasa, which is a Bahian water and sanitation company from almost the entire state of Bahia and belonging to the state government. I currently work as an irregularity inspector coordinating teams to remove fraud.
 I'm in a career transition, focusing on working on my hard skills to get my first job as a BeckEnd developer.
 
-![Profile Views](https://komarev.com/ghpvc/?username=https://github.com/Tielson&theme=default&color=blue&style=flat&label=Profile+Views)
 
 ## About me
 
