@@ -4,7 +4,7 @@
 <a href="https://www.instagram.com/https://www.instagram.com/filipetielson/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height="25"></a>&nbsp;
 
 ## Welcome 💜
-Graduated in Technician in Industrial Mechanics at Senai - Fieb and I am studying Mechanical Engineering at UNIFAN - Centro Universitário Nobre. I work at Embasa, which is a Bahian water and sanitation company from almost the entire state of Bahia and belonging to the state government. I currently work as an irregularity inspector coordinating teams to remove fraud. I'm in a career transition, focusing on working on my hard skills to get my first job as a BeckEnd developer.
+Graduated in Industrial Mechanics Technician at Senai - Fieb and I am studying Mechanical Engineering at UNIFAN - Centro Universitário Nobre. I work at Embasa, which is a water and sanitation company from Bahia that runs almost the entire state of Bahia and belongs to the state government. I currently work as an irregularities inspector coordinating teams to remove fraud. I'm in a career transition, focusing on working on my skills to get my first opportunity as a BeckEnd developer.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tielson&theme=default&color=blue&style=flat&label=Profile+Views)
 
