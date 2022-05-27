@@ -15,7 +15,7 @@ Graduated in Technician in Industrial Mechanics at Senai - Fieb and I am studyin
 <br/>🤝&nbsp;I like to collaborate in **I like to collaborate in Open source projects**
 <br/>😄&nbsp;Pronouns **Pronouns He**
 <br/>⚡&nbsp;Fun fact **Fun fact I'm not that funny 🙁**
-<br/>f&nbsp;lipe_thielsom@hotmail.com [filipe_thielsom@hotmail.com](mailto:filipe_thielsom@hotmail.com)
+<br/>f&nbsp;[filipe_thielsom@hotmail.com](mailto:filipe_thielsom@hotmail.com)
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
