@@ -21,7 +21,7 @@ Hi! My name is Filipe Tielson, I'm passionate about technology, challenges, this
 <br/>🛠️ tools: VsCode, Markdown
 <br/>🌱&nbsp;Learning about: React.js
 <br/>💡&nbsp;I'm interested about Docker, PostgreSQL, MySQL
-<br/>📬 E-mail: &nbsp;[filipe_thielsom@hotmail.com](mailto:filipe_thielsom@hotmail.com)
+<br/>📬 E-mail: &nbsp;[tielson_dev@outlook.com](mailto:tielson_dev@outlook.com)
 
 [![@tielson's Holopin board](https://holopin.me/tielson)](https://holopin.io/@tielson)
 
