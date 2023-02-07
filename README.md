@@ -14,12 +14,11 @@ Hi! My name is Filipe Tielson, I'm passionate about technology, challenges, this
 
 
 🎓 &nbsp;Graduating in Mechanical Engineering
-<br/>🛰 Backend: Node.js
-<br/>✨Frontend:Html5, Css3, Javascript
+<br/>🛰 Backend: Node.js, SqlLite, Mongoose, knex
+<br/>✨Frontend:Typescript, React.js, Vite
 <br/>🎨 layout Design: Figma
 <br/>🗃️ Version code control: Git e GitHub
 <br/>🛠️ tools: VsCode, Markdown
-<br/>🌱&nbsp;Learning about: React.js
 <br/>💡&nbsp;I'm interested about Docker, PostgreSQL, MySQL
 <br/>📬 E-mail: &nbsp;[tielson_dev@outlook.com](mailto:tielson_dev@outlook.com)
 
