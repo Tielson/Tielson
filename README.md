@@ -13,9 +13,9 @@ Hi! My name is Filipe Tielson, I'm passionate about technology, challenges, this
 ![Profile Views](https://komarev.com/ghpvc/?username=Tielson&theme=default&color=blue&style=flat&label=Profile+Views)
 
 
-🎓 &nbsp;Graduating in Mechanical Engineering
-<br/>🛰 Backend: Node.js, SqlLite, Mongoose, knex
-<br/>✨Frontend:Typescript, React.js, Vite
+<br/>🛰 Backend: Node.js, PHP 7, Typescript, Docker, Express, Knex.Js, Prisma, NestJs.
+<br/>🛰 BDs: PostgreSQL, MongoDB e Microsoft SQL Server, MariaDB, MySQL.
+<br/>✨Frontend:Typescript, React.js, vue, PHP 7, Jquery
 <br/>🎨 layout Design: Figma
 <br/>🗃️ Version code control: Git e GitHub
 <br/>🛠️ tools: VsCode, Markdown
