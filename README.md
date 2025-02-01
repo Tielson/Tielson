@@ -19,7 +19,7 @@ Hi! My name is Filipe Tielson, I'm passionate about technology, challenges, this
 <br/>🎨 layout Design: Figma
 <br/>🗃️ Version code control: Git e GitHub
 <br/>🛠️ tools: VsCode, Markdown
-<br/>💡&nbsp;I'm interested about Docker, PostgreSQL, MySQL
+<br/>💡&nbsp;I'm interested about Kubernetes.
 <br/>📬 E-mail: &nbsp;[tielson_dev@outlook.com](mailto:tielson_dev@outlook.com)
 <br/>🗂 Portfolio: &nbsp;[tielson.netlify](https://tielson.netlify.app/)
 
