@@ -13,7 +13,7 @@ Hi! My name is Filipe Tielson, I'm passionate about technology, challenges, this
 ![Profile Views](https://komarev.com/ghpvc/?username=Tielson&theme=default&color=blue&style=flat&label=Profile+Views)
 
 
-<br/>🛰 Backend: Node.js, PHP 7, PHP 8, Laravel, Typescript, Docker, DockerSwarm, Express, Knex.Js, Prisma, NestJs.
+<br/>🛰 Backend: Node.js, PHP 7, PHP 8, Laravel, Typescript, Docker, DockerSwarm, Kubernetes , Express, Knex.Js, Prisma, NestJs.
 <br/>🛰 BDs: PostgreSQL, MongoDB e Microsoft SQL Server, MariaDB, MySQL.
 <br/>✨Frontend:Typescript, React.js, vue, Jquery
 <br/>🎨 layout Design: Figma
