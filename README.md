@@ -13,15 +13,15 @@ Hi! My name is Filipe Tielson, I'm passionate about technology, challenges, this
 ![Profile Views](https://komarev.com/ghpvc/?username=Tielson&theme=default&color=blue&style=flat&label=Profile+Views)
 
 
-<br/>🛰 Backend: Node.js, PHP 7, Typescript, Docker, Express, Knex.Js, Prisma, NestJs.
+<br/>🛰 Backend: Node.js, PHP 7, PHP 8, Laravel, Typescript, Docker, DockerSwarm, Express, Knex.Js, Prisma, NestJs.
 <br/>🛰 BDs: PostgreSQL, MongoDB e Microsoft SQL Server, MariaDB, MySQL.
-<br/>✨Frontend:Typescript, React.js, vue, PHP 7, Jquery
+<br/>✨Frontend:Typescript, React.js, vue, Jquery
 <br/>🎨 layout Design: Figma
 <br/>🗃️ Version code control: Git e GitHub
-<br/>🛠️ tools: VsCode, Markdown
+<br/>🛠️ tools: VsCode, Cursor, Markdown
 <br/>💡&nbsp;I'm interested about Kubernetes.
 <br/>📬 E-mail: &nbsp;[tielson_dev@outlook.com](mailto:tielson_dev@outlook.com)
-<br/>🗂 Portfolio: &nbsp;[tielson.netlify](https://tielson.netlify.app/)
+<br/>🗂 Portfolio: &nbsp;[tielson.dominus.software](https://tielson.dominus.software/)
 
 [![@tielson's Holopin board](https://holopin.me/tielson)](https://holopin.io/@tielson)
 
