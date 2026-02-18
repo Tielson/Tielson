@@ -1,44 +1,92 @@
+# 👋 Filipe Tielson
 
-# Filipe Tielson
-## 🚀 About me
+## 🚀 Software Engineer | Backend & AI Systems | System Design Enthusiast
+
+I'm a software engineer passionate about building scalable systems, intelligent applications and high-performance backends.
+
+I love solving complex problems involving:
+- Architecture & System Design
+- AI integrations (RAG, LLMs, embeddings)
+- CRM and messaging platforms
+- Performance optimization
+- Modular and scalable applications
+
+Entrepreneurial mindset, product vision and strong focus on execution.
+
+---
+
+## ⚡ Tech Focus
+
+### 🧠 Backend & Architecture
+Node.js · NestJS · Express  
+TypeScript · PHP 7/8 · Laravel  
+Prisma · Knex.js  
+Docker · Docker Swarm · Kubernetes  
+Redis · BullMQ  
+Turborepo · Modular Monorepos  
+
+### 🗄 Databases
+PostgreSQL · MongoDB  
+Microsoft SQL Server  
+MySQL · MariaDB  
+
+### 🧩 AI & Data
+LangChain  
+RAG Architectures  
+Embeddings & Vector Databases  
+ChromaDB  
+Prompt Engineering  
+LLM Orchestration  
+
+### 🎨 Frontend
+React.js · Vue.js  
+TypeScript  
+Vite  
+JQuery  
+
+### ☁ DevOps & Infra
+Docker  
+Kubernetes  
+CI/CD  
+Linux environments  
+
+---
+
+## 🧠 Soft Skills
+
+✔ System thinking  
+✔ Product-oriented mindset  
+✔ Business-driven development  
+✔ Strong problem solving  
+✔ Architecture planning  
+✔ Clear technical communication  
+✔ Ownership mentality  
+✔ Fast learner  
+
+---
+
+## 📊 GitHub Analytics
+
+![Streak](https://streak-stats.demolab.com?user=Tielson&theme=transparent&hide_border=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tielson&theme=transparent)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tielson&theme=transparent)
 
 
-Hi! My name is Filipe Tielson, I'm passionate about technology, challenges, this makes me very motivated. I love personal development strategies and tools and I have an entrepreneurial spirit.
 
 
+---
 
+## 🧲 Current Interests
 
+- AI-first applications
+- Intelligent CRMs
+- Scalable SaaS systems
+- Kubernetes orchestration
+- Performance tuning for LLM workloads
 
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tielson&theme=default&color=blue&style=flat&label=Profile+Views)
+## 📫 Contact
 
-
-<br/>🛰 Backend: Node.js, PHP 7, PHP 8, Laravel, Typescript, Docker, DockerSwarm, Kubernetes , Express, Knex.Js, Prisma, NestJs.
-<br/>🛰 BDs: PostgreSQL, MongoDB e Microsoft SQL Server, MariaDB, MySQL.
-<br/>✨Frontend:Typescript, React.js, vue, Jquery
-<br/>🎨 layout Design: Figma
-<br/>🗃️ Version code control: Git e GitHub
-<br/>🛠️ tools: VsCode, Cursor, Markdown
-<br/>💡&nbsp;I'm interested about Kubernetes.
-<br/>📬 E-mail: &nbsp;[tielson_dev@outlook.com](mailto:tielson_dev@outlook.com)
-<br/>🗂 Portfolio: &nbsp;[tielson.dominus.software](https://tielson.dominus.software/)
-
-[![@tielson's Holopin board](https://holopin.me/tielson)](https://holopin.io/@tielson)
-
-## Tech Stack
-<img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma" alt="figma Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git" alt="git Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Nodejs-05122A?style=flat&logo=node.js" alt="nodejs Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/React-05122A?style=flat&logo=react" alt="react Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Typescript-05122A?style=flat&logo=typescript" alt="typescript Badge" height="25">&nbsp;
-
-## GitHub Analytics
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tielson&theme=default&show_icons=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tielson&theme=default&layout=compact&langs_count=5">
-</div>
-
-
+📧 tielson_dev@outlook.com  
+🌐 https://tielson.dominus.software  
